@@ -1,0 +1,7 @@
+쓰기(C) : insert into
+읽기(R) : select from
+수정(U) : update set
+삭제(D) : delete from
+
+tuple(튜플) : 가로한줄
+column(컬럼) : 세로한줄
